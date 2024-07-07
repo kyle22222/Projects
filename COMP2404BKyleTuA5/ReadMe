@@ -1,0 +1,14 @@
+Kyle Tu 101269161
+
+Purpose: A program that simulates a pit game where 2 heros randomly move in a map with 
+randomly moving monsters and they try to escape without dying while ninjas rappel from
+the top to try and pull them out.
+
+Source Files: Escape.cc Hero.cc Participant.cc Snorc.cc Ninja.cc random.cc defs.h 
+Escape.h Hero.h Participant.h Snorc.h Ninja.h MoveBehaviour.h EscapeeBehaviour.h
+RescuerBehaviour.h VillainBehaviour.h RescuedBehaviour.h List.h random.h
+
+Launch Instructions:-
+1.)Have all files mentioned above in the same directory
+2.)In terminal enter the following command in the same directory; "make"
+3.)Now enter "./test" to run the program
