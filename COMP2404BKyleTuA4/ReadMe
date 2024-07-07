@@ -1,0 +1,10 @@
+Kyle Tu 101269161
+
+Purpose: A program that simulates a pit game where 2 heros randomly move in a map with randomly moving monsters and they try to escape without dying.
+
+Source Files: defs.h Escape.h Escape.cc Hero.h Hero.cc PartArray.h PartArray.cc Participant.h Participant.cc Pit.h Pit.cc Position.h Position.cc random.cc Snorc.h Snorc.cc MakeFile
+
+Launch Instructions:-
+1.)Have all files mentioned above in the same directory
+2.)In terminal enter the following command in the same directory; "make"
+3.)Now enter "./test" to run the program
