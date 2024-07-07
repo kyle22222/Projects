@@ -1,0 +1,10 @@
+Kyle Tu 101269161
+
+Purpose: A menu for a school to keep track of courses, student, and their registration as well as for student to register courses
+
+Source Files: Control.cc Control.h Course.cc Course.h CourseArray.cc CourseArray.h defs.h Registration.cc Registration.h RegList.cc RegList.h School.cc School.h StuArray.cc StuArray.h Student.cc Student.h View.cc View.h Makefile
+
+Launch Instructions:-
+1.)Have all files mentioned above in the same directory
+2.)In terminal enter the following command in the same directory; "make"
+3.)Now enter "./program" to run the program
